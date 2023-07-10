@@ -1,4 +1,4 @@
-# CNantes A Velo est une application qui permet de réaliser plusieurs actions a partir d'une base de données de compteurs de velos de la ville de Nantes !alendrier
+# Calendrier
 Ce projet Java est une application de calendrier sobre qui permet aux utilisateurs de visualiser et de naviguer à travers les dates. Il offre une interface graphique conviviale qui affiche le nom du jour, le numéro du jour, le mois et l'année. 
 
 ## Fonctionnalités
